@@ -1,0 +1,20 @@
+.creatures {
+  width: 300px;
+  height: 300px;
+}
+
+.creatures:hover {
+  background-color: yellow;
+}
+
+.pictures {
+  align-items: end;
+}
+
+.exotext {
+  color: white;
+}
+
+.liens:hover .exotext {
+  color: black;
+}
