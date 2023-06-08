@@ -1,3 +1,7 @@
+body{
+  font-family: 'Space Grotesk', sans-serif;
+}
+
 .creatures {
   width: 300px;
   height: 300px;
